@@ -26,12 +26,12 @@
     </div>
     <hr>
   
-    <div class="flex-magazine">
+        <div class="flex-magazine">
   
       <div class="magazine">
-      <div class="cover"><a href="https://drive.google.com/file/d/1AOAXn1CK_RUx-0aWh6DKIM20tg-GZklY/view?usp=sharing" target="_blank"><img src="{{ get_asset synthesis1.jpg }}"></a></div>
-      <div class="text"><div class="title">About the Cover:</div><div class="content"> This is good.
-         <br><br> Yes. 
+      <div class="cover"><a href="https://drive.google.com/file/d/1AOAXn1CK_RUx-0aWh6DKIM20tg-GZklY/view?usp=sharing" target="_blank"><img src="http://127.0.0.1:5500/assets\synthesis1.jpg"></a></div>
+      <div class="text"><div class="title">About the Cover:</div><div class="content"> Lorem Ipsum.
+         <br><br> Lorem Ipsum.
          <br><br> <a class="link" href="https://drive.google.com/file/d/1AOAXn1CK_RUx-0aWh6DKIM20tg-GZklY/view?usp=sharing" target="_blank">Read</a>
         
         </div>
@@ -41,9 +41,9 @@
       <hr>
   
       <div class="magazine">
-        <div class="cover"><a href="https://drive.google.com/file/d/1Iid7_E_K2FB7Zm0VPuZru4rL8BABeb2w/view?usp=sharing" target="_blank"><img src="{{ get_asset synthesis2.jpg }}"></a></div>
-        <div class="text"><div class="title">About the Cover:</div><div class="content"> This is yes.
-           <br><br> affirmitive. 
+        <div class="cover"><a href="https://drive.google.com/file/d/1Iid7_E_K2FB7Zm0VPuZru4rL8BABeb2w/view?usp=sharing" target="_blank"><img src="http://127.0.0.1:5500/assets\synthesis2.jpg"></a></div>
+        <div class="text"><div class="title">About the Cover:</div><div class="content"> Lorem Ipsum.
+           <br><br> Lorem Ipsum. 
            <br><br> <a class="link" href="https://drive.google.com/file/d/1Iid7_E_K2FB7Zm0VPuZru4rL8BABeb2w/view?usp=sharing" target="_blank">Read</a>
           
           </div>
@@ -53,11 +53,9 @@
         <hr>
   
         <div class="magazine">
-          <div class="cover"><a href="https://drive.google.com/file/d/1ESywj1Hkj6cvzdxZSYe_T3zXQtO5Kqjp/view?usp=sharing" target="_blank"><img src="{{ get_asset synthesis3.jpg }}"></a></div>
-          <div class="text"><div class="title">About the Cover:</div><div class="content"> This is very very very very very very very 
-            very very very very very very 
-            very very very good.
-             <br><br> Will Smith. 
+          <div class="cover"><a href="https://drive.google.com/file/d/1ESywj1Hkj6cvzdxZSYe_T3zXQtO5Kqjp/view?usp=sharing" target="_blank"><img src="http://127.0.0.1:5500/assets\synthesis3.jpg"></a></div>
+          <div class="text"><div class="title">About the Cover:</div><div class="content"> Lorem Ipsum.
+             <br><br> Lorem Ipsum.
              <br><br> <a class="link" href="https://drive.google.com/file/d/1ESywj1Hkj6cvzdxZSYe_T3zXQtO5Kqjp/view?usp=sharing" target="_blank">Read</a>
             
             </div>
