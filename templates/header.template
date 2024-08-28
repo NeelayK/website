@@ -19,43 +19,25 @@
                     Close <i class="fa-solid fa-x"></i>
                 </div>
             </div>
-            <div class="dropdown-container">
-                <details class="dropdown left">
-                    <summary>
-                        <span>Content <i class="fa-solid fa-angle-down"></i></span>
-                    </summary>
-                    <ul>
-                        <li> <a href="{{ get_link blog }}"> Blog </a> </li>
-                        <li> <a href="{{ get_link newsletter }}"> Newsletter </a> </li>
-                        <li> <a href="{{ get_link magazine }}"> Magazine </a> </li>
-                    </ul>
-                </details>
+            <div class="nav-element">
+                <div><a href="{{ get_link magazine }}">Synthesis</a></div>
             </div>
-            <div class="dropdown-container">
-                <details class="dropdown left">
-                    <summary>
-                        <span>Events <i class="fa-solid fa-angle-down"></i></span>
-                    </summary>
-                    <ul>
-                        <li> <a href="{{ get_link gallery }}"> Gallery </a> </li>
-                        <li> <a href="#"> Any Additonal Link </a> </li>
-                </details>
-            </div>
-
             <div class="nav-element">
                 <div><a href="{{ get_link about }}">About</a></div>
             </div>
             <div class="nav-element">
                 <div><a href="{{ get_link contact }}">Contact</a></div>
             </div>
+            <div class="nav-element">
+                <div><a href="#">Register</a></div>
+            </div>
         </div>
     </div>
     <div class="right">
         <div class="icons">
-            <div><i class="fa-brands fa-instagram"></i></div>
-            <div><i class="fa-brands fa-linkedin"></i></div>
-            <div><i class="fa-brands fa-github"></i></div>
-            <div><i class="fa-brands fa-discord"></i></div>
+            <a href="https://www.instagram.com/csit_iisertvm/" class="fa-brands fa-instagram"></a>
+            <a class="fa-brands fa-twitter" href="https://twitter.com/csit_iisertvm"></a>
+            <a class="fa-brands fa-youtube" href="https://www.youtube.com/@chemicalsocietyiisertvm9694"></a>
         </div>
     </div>
 </div>

@@ -31,95 +31,30 @@
                 <div class="owl-carousel custom-carousel owl-theme">
 
                     <div class="item active"
-                        style="background-image: url(https://www.yudiz.com/codepen/expandable-animated-card-slider/dota-2.jpg);">
+                        style="background-image: url('https://i.postimg.cc/q7q0pBRH/The-Catalyst.png');">
                         <div class="item-desc">
-                            <h3>Foundation Day</h3>
+                            <h3>The Catalyst</h3>
                             <p>
                                 <br>
-                            <div class="date">1st April 2023</div>
-                            The Foundation Day of CSIT is celebrated on 1st April every year. The day is marked by a
-                            series of events, including a talk by a distinguished speaker, a quiz competition, and a
-                            poster presentation competition.
-                            <br> <br> <a href="#text">Read more.</a>
+                            <div class="date">29t March 2024</div>
+                           This edition explores the unconventional phenomena of attraction between like charges in silica microparticles. Our newsletter also focuses on the latest research on nanoparticles and how it can be used to make a self-cleaning wall paint and in making tunable green catalysts.
+                            <br> <br> <a href="#text">Read more</a>
                             </p>
                         </div>
                     </div>
 
                     <div class="item"
-                        style="background-image: url(https://www.yudiz.com/codepen/expandable-animated-card-slider/dota-2.jpg);">
+                        style="background-image: url(https://i.postimg.cc/fTDGwW2q/synthesis2.jpg);">
                         <div class="item-desc">
-                            <h3>Foundation Day</h3>
+                            <h3>Synthesis</h3>
                             <p>
                                 <br>
-                            <div class="date">1st April 2023</div>
-                            The Foundation Day of CSIT is celebrated on 1st April every year. The day is marked by a
-                            series of events, including a talk by a distinguished speaker, a quiz competition, and a
-                            poster presentation competition.
-                            <br> <br> <a href="#text">Read more.</a>
+                            Synthesis is back with it's newest edition.
+This edition features articles honoring the name 'Synthesis' and delves into diverse topics such as computational studies, molecular electronics, and more!
+                            <br> <br> <a href="{{ get_link magazine }}">Read more</a>
                             </p>
                         </div>
                     </div>
-
-                    <div class="item"
-                        style="background-image: url(https://www.yudiz.com/codepen/expandable-animated-card-slider/dota-2.jpg);">
-                        <div class="item-desc">
-                            <h3>Foundation Day</h3>
-                            <p>
-                                <br>
-                            <div class="date">1st April 2023</div>
-                            The Foundation Day of CSIT is celebrated on 1st April every year. The day is marked by a
-                            series of events, including a talk by a distinguished speaker, a quiz competition, and a
-                            poster presentation competition.
-                            <br> <br> <a href="#text">Read more.</a>
-                            </p>
-                        </div>
-                    </div>
-
-                    <div class="item"
-                        style="background-image: url(https://www.yudiz.com/codepen/expandable-animated-card-slider/dota-2.jpg);">
-                        <div class="item-desc">
-                            <h3>Foundation Day</h3>
-                            <p>
-                                <br>
-                            <div class="date">1st April 2023</div>
-                            The Foundation Day of CSIT is celebrated on 1st April every year. The day is marked by a
-                            series of events, including a talk by a distinguished speaker, a quiz competition, and a
-                            poster presentation competition.
-                            <br> <br> <a href="#text">Read more.</a>
-                            </p>
-                        </div>
-                    </div>
-
-                    <div class="item"
-                        style="background-image: url(https://www.yudiz.com/codepen/expandable-animated-card-slider/dota-2.jpg);">
-                        <div class="item-desc">
-                            <h3>Foundation Day</h3>
-                            <p>
-                                <br>
-                            <div class="date">1st April 2023</div>
-                            The Foundation Day of CSIT is celebrated on 1st April every year. The day is marked by a
-                            series of events, including a talk by a distinguished speaker, a quiz competition, and a
-                            poster presentation competition.
-                            <br> <br> <a href="#text">Read more.</a>
-                            </p>
-                        </div>
-                    </div>
-
-                    <div class="item"
-                        style="background-image: url(https://www.yudiz.com/codepen/expandable-animated-card-slider/dota-2.jpg);">
-                        <div class="item-desc">
-                            <h3>Foundation Day</h3>
-                            <p>
-                                <br>
-                            <div class="date">1st April 2023</div>
-                            The Foundation Day of CSIT is celebrated on 1st April every year. The day is marked by a
-                            series of events, including a talk by a distinguished speaker, a quiz competition, and a
-                            poster presentation competition.
-                            <br> <br> <a href="#text">Read more.</a>
-                            </p>
-                        </div>
-                    </div>
-
 
                 </div>
         </div>
